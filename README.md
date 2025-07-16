@@ -3,7 +3,7 @@
 
 📚 Sou formado em Análise e Desenvolvimento de Sistemas no Centro Universitário Braz Cubas <br/>
 📆 Desenvolvedor ABAP para o ambiente SAP S/4HANA à meio ano <br/>
-✨ Posso desenvolver aplicações web para resolução de problemas <br/>
+✨ Posso desenvolver aplicações web para resolução de problemas e aplicativos mobile <br/>
 🛫 Além de home office, estou disposto a viajar para aceitar trabalhos presenciais <br/>
 
 ## 🌐 Socials:
